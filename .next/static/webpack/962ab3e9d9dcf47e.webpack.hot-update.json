@@ -1,0 +1,1 @@
+{"c":["pages/news","webpack"],"r":["pages/news/[id]"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnews%2F%5Bid%5D&absolutePagePath=%2FUsers%2Ffibble%2FDesktop%2Fwork%2Fnext-js-demo%2Fpages%2Fnews%2F%5Bid%5D.js!","./pages/news/[id].js"]}
